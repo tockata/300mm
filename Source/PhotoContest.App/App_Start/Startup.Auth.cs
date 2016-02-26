@@ -63,8 +63,8 @@ namespace PhotoContest.App
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "283255352071-5ebe763ka645sb3disgfg4fm012990eg.apps.googleusercontent.com",
-                ClientSecret = "muawQWcYZts_os4jPglWpBdU"
+                ClientId = "283255352071-evt2di5qanphaasu33dhdcld4u496vp7.apps.googleusercontent.com",
+                ClientSecret = "7S-Bd0tQY6chE5FlTl3lYkG9"
             });
         }
     }
